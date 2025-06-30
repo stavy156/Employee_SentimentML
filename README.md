@@ -15,21 +15,17 @@ Build a predictive model to forecast sentiment scores
 
 -Top 3 Positive Employees:
 
-Bobette rhiner
-Rhonda denton
-Lydia delgado (most)
+'kayne coulter', 'patti thompson', 'don baughman'
 
 -Top 3 Negative Employees:
 
-Kayne coulter
-Johnny palmer
-Don baughman
+'rhonda denton' 'johnny palmer' 'bobette riner'
 
 2)Flight Risk Employees
 
 Employees flagged due to 4 or more negative emails within a rolling 30-day window:
 
-'john arnold', 'patti thompson', 'eric bass', 'kayne coulter', 'rhonda denton', 'lydia delgado', 'johnny palmer', 'don baughman', 'bobette riner', 'sally beck'
+'bobette riner', 'john arnold', 'rhonda denton', 'sally beck', 'patti thompson', 'lydia delgado', 'johnny palmer'
 
 3)Key Insights and recommendations
 
